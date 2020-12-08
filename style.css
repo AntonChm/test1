@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: cornflowerblue;
+    margin: 0;
+    display: flex;
+}
+
+#wrapper {
+    width: 500px;
+    background-color: brown;
+    height: 80vh;
+    margin: 50px auto;
+}
+
+.income, 
+.own {
+    width: 70%;
+    /* height: 20px; */
+    background-color: #523233;
+    border-radius: 20%;
+    margin-bottom: 20px;
+}
+
+.own {
+    background-color: wheat;
+    margin-left: auto;
+}
